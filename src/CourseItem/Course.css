@@ -1,0 +1,17 @@
+.main-container{
+  display: flex;
+  margin-top: 25px;
+  margin-left: 8px;
+}
+.card-design{
+  height: 300px;
+  width: 300px; 
+  margin-bottom: 200px;                      
+}
+.course-container{
+   width: 65%;                      
+}
+.cart-container{
+  margin: 15px;
+  padding-top: 25px;
+}
